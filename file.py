@@ -1,2 +1,2 @@
 
-print("hello, i am student")
+print("hello, i am teacher")
