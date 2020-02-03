@@ -1,2 +1,2 @@
-print("hello worl")
-print("hello namastey")
+print("hello man")
+print("hello 2094")
